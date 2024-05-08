@@ -1,12 +1,12 @@
 # VBA_ExcelPropertyManagement
-###A VBA project to streamline and secure property management tasks and data.
+### A VBA project to streamline and secure property management tasks and data.
 
-*The project objective is to automate Excel Property Management's property ledger using a secure web-based solution that minimizes user error and ensures proper authorization privileges. It will provide access to ledger data on any device, implement best IT practices, and include manual auditing features, with exclusive administrator access to logging data, customer data and other restricted data stored in a dedicated Access database.
+<em>The project objective is to automate Excel Property Management's property ledger using a secure web-based solution that minimizes user error and ensures proper authorization privileges. It will provide access to ledger data on any device, implement best IT practices, and include manual auditing features, with exclusive administrator access to logging data, customer data and other restricted data stored in a dedicated Access database.
 
-To enhance security and usability, the system must present as an Excel deployed VBA menu-driven application. Users, apart from the owner/admin (Sparky), should not have the ability to access the raw spreadsheet data. Upon opening, the system must authenticate users and grant role-specific access.*
+To enhance security and usability, the system must present as an Excel deployed VBA menu-driven application. Users, apart from the owner/admin (Sparky), should not have the ability to access the raw spreadsheet data. Upon opening, the system must authenticate users and grant role-specific access.</em>
 
 
-###Project Requirements
+### Project Requirements
 
 <strong>REQ-EPM001 (Phase 0)</strong>
 The ledger system shall support one administrative account, one business analyst account, and  support staff accounts equal to the amount of project managers employed.
