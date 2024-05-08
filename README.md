@@ -5,8 +5,16 @@
 
 To enhance security and usability, the system must present as an Excel deployed VBA menu-driven application. Users, apart from the owner/admin (Sparky), should not have the ability to access the raw spreadsheet data. Upon opening, the system must authenticate users and grant role-specific access.</em>
 
+## VBA UI
+![Screenshot (64)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/45410bfe-a907-4104-8bd9-ed75a38d8fdc)
+![Screenshot (65)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/9e7e5f6b-6be0-4898-bf20-e06a56127773)
+![Screenshot (66)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/4640c60c-aeca-4c70-bf94-487e824355ca)
+![Screenshot (67)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/486df3b0-b89d-4b80-9e6d-7a0c79e3311b)
+![Screenshot (68)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/ba148129-8249-4ff8-a81c-d86ea10f2332)
+![Screenshot (70)](https://github.com/hradams4/VBA_ExcelPropertyManagement/assets/80241606/62e409c5-cf42-4ed7-9a31-b9a458a5a169)
 
-### Project Requirements
+
+## Project Requirements
 
 <strong>REQ-EPM001 (Phase 0)</strong>
 The ledger system shall support one administrative account, one business analyst account, and  support staff accounts equal to the amount of project managers employed.
